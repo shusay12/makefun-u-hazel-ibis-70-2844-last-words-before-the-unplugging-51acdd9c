@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+/output/
+u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c-kit/
+*.tar.gz
+BUILD-REPORT.md
+transcripts.tar.gz
+muse-usage.jsonl
